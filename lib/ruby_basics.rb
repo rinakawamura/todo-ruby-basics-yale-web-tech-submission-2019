@@ -8,10 +8,9 @@ end
 
 def argue(argument)
   argument
-
 end
 
-def greeting
+def greeting(greeting, name)
 
 end
 
